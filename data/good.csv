@@ -1,0 +1,7 @@
+num,type,distance,trainIdx,queryIdx,imgIdx
+1257,<class 'cv2.DMatch'>,155.55062866210938,1,548,0
+1258,<class 'cv2.DMatch'>,158.95912170410156,15,504,0
+1259,<class 'cv2.DMatch'>,169.31922912597656,15,149,0
+1260,<class 'cv2.DMatch'>,169.5435028076172,15,477,0
+1261,<class 'cv2.DMatch'>,170.8976287841797,7,109,0
+1262,<class 'cv2.DMatch'>,175.1884765625,4,80,0
